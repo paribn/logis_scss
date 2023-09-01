@@ -1,0 +1,31 @@
+// .column-gap-0{
+//     column-gap: 0;
+// }
+// .column-gap-1{
+//     column-gap: 4px;
+// }
+// .column-gap-2{
+//     column-gap: 8px;
+// }
+// .column-gap-3{
+//     column-gap: 12px;
+// }
+// .column-gap-4{
+//     column-gap: 16px;
+// }
+// .column-gap-5{
+//     column-gap: 20px;
+// }
+
+// $total-colums:5;
+// $base:2px;
+// $col-column-gap:();
+
+// @for $i from 0 through $total-colums{
+//    .column-gap-#{$i}{
+//     column-gap: 4px * $i;
+//    }
+    
+// }
+
+

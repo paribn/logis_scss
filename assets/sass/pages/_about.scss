@@ -1,0 +1,120 @@
+.img_svg{
+    width: 100%;
+}
+.statistic{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.allstatistic{
+    display: flex;
+
+}
+.search{
+    width: 300px;
+}
+
+.delivery{
+    display: flex;
+    gap: 5px;
+    font-size: 18px;
+    padding: 54px;
+
+    .icon_{
+        font-size: 64px;
+        color:  #0d42ff;
+    }
+    .one{
+        display: flex;
+        gap: 25px;
+
+        .textone{
+            font-size: 22px;
+
+            .learn_{
+                padding: 16px;
+            }
+        }
+    }
+    .two{
+        display: flex;
+        gap: 25px;
+
+        .textone{
+            font-size: 22px;
+
+            .learn_{
+                padding: 16px;
+            }
+        }
+
+    }
+    .three{
+        display: flex;
+        gap: 25px;
+        .textone{
+            font-size: 22px;
+
+            .learn_{
+                padding: 16px;
+            }
+        }
+
+    }
+}
+._title{
+    margin-bottom: 8px;
+}
+
+.about_left{
+    font-size: $base*8;
+
+}
+
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+}
+
+.left_icon{
+    display: flex;
+    gap: 60px;
+
+    
+    .color_icon{
+        color: #0d42ff;
+        font-size: 48px;
+        display: inline;
+    }
+}
+
+.about{
+    display: flex;
+}
+
+
+.container-ok{
+    display: grid;
+    grid-template-columns:auto auto auto;
+    padding: 10px;
+     
+
+    .grid-item{
+        width: 100%; /* Allow items to fill the column */
+        max-width: 500px; /* Set a maximum width for each item */
+        text-align: center; /* Center content horizontally */
+        margin-top: 50px;       
+
+    }
+
+    img{
+        width: 100%;
+        height: auto;
+    }
+    h2{
+        margin: 10px 0;
+    }
+}
+
+

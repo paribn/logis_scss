@@ -1,0 +1,17 @@
+// .row{
+//     display: flex;
+//     flex-wrap: wrap;
+// }
+//  $justifyLists: (
+//     between: space-between,
+//     end: flex-end,
+//     around: space-around,
+//     evenly:space-evenly,
+//     start:flex-start,
+//  );
+
+//  @each $jKey, $JValue in $justifyLists {
+//     .justify-#{$jKey}{
+//         justify-content:$JValue;
+//     }
+// }
